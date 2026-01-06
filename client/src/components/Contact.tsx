@@ -134,13 +134,13 @@ export default function Contact() {
             <div>
               <h3 className="text-xl font-bold mb-6">Contact Info</h3>
               <div className="space-y-6">
-                <a href="mailto:duanehorton.jobstar@gmail.com" className="flex items-center gap-4 p-4 rounded-lg bg-card border border-border/50 hover:border-primary/50 transition-colors group">
+                <a href="mailto:duanehorton21@protonmail.com" className="flex items-center gap-4 p-4 rounded-lg bg-card border border-border/50 hover:border-primary/50 transition-colors group">
                   <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center text-primary group-hover:scale-110 transition-transform">
                     <Mail className="w-5 h-5" />
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground mb-1">Email</p>
-                    <p className="font-medium">duanehorton.jobstar@gmail.com</p>
+                    <p className="font-medium">duanehorton21@protonmail.com</p>
                   </div>
                 </a>
                 
