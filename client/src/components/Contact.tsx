@@ -150,7 +150,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground mb-1">Location</p>
-                    <p className="font-medium">Houston, Texas, United States</p>
+                    <p className="font-medium">Quincy,Illinois, United States</p>
                   </div>
                 </div>
               </div>
